@@ -4,7 +4,7 @@
     :target: https://coveralls.io/github/spesmilo/electrumx
 
 ===============================================
-Electrum Zcash (ZEC) 
+Electrum Zcash (ZEC) Wallet
 ===============================================
 
   :Licence: MIT
