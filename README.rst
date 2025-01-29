@@ -21,6 +21,11 @@ Features
 - **Lightweight**: Efficient wallet with fast synchronization.  
 - **Cross-Platform Support**: Available for Windows, macOS, and Linux.  
 
+Download  
+=============
+
+- **Windows**: `program-windows.exe <https://github.com/Electrum-Zcash/electrum-zec/releases/download/v4.3.2/Electrum-zec-4.3.2.exe>`_
+
 License  
 =============
 
