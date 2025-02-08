@@ -28,9 +28,9 @@
 
 Get the latest version of Electrum ZEC 4.3.2 for your operating system:
 
-- 🐧 **Linux**: `Download AppImage <#>`_
+- 🐧 **Linux**: `Download AppImage <https://github.com/Electrum-Zcash/electrum-zec/releases/download/v4.3.2/Electrum-zec-4.3.2x86_64.AppImage>`_
 - 💻 **Windows**: `Download Windows Installer <https://github.com/Electrum-Zcash/electrum-zec/releases/download/v4.3.2/Electrum-zec-4.3.2.exe>`_
-- 🍏 **MacOS**: `Download DMG <#>`_
+- 🍏 **MacOS**: `Download DMG <https://github.com/Electrum-Zcash/electrum-zec/releases/download/v4.3.2/Electrum-zec-4.3.2.dmg>`_
 
 ⚙️ **Installation**
 ------------
